@@ -17,24 +17,15 @@ ufw allow http
 
 # Install
 
-wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
-
-- Unzip files in <b>/var/www/html/</b>
 <pre>
-cd /var/www/html/ # Default apache2 server path
-wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/archive/1.0.zip
-unzip master.zip
-rm master.zip
+wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
 </pre>
 - Edit configuration (<b>rpc_user</b> and <b>rpc_password</b>)
 <pre>
-- Delete index.html
-rm index.html
-
+</pre>
 - Customize config file
 nano /var/www/hmtl/config.php
-
-</pre>
+<pre>
 
 # Features
 - Masterode status
