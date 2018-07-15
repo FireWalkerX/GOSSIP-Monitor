@@ -23,11 +23,13 @@ ufw allow http
 cd /var/www/html/ # Default apache2 server path
 wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/archive/1.0.zip
 unzip master.zip
-rm master.zip # We don't need that anymore
+rm master.zip
 </pre>
 - Edit configuration (<b>rpc_user</b> and <b>rpc_password</b>)
 <pre>
 nano /var/www/hmtl/config.php
+- Delete index.html
+rm index.html
 </pre>
 
 # Features
