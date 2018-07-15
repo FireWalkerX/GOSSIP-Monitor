@@ -18,6 +18,8 @@ ufw allow http
 
 # Install
 
+wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/blob/master/install.sh && bash install.sh
+
 - Unzip files in <b>/var/www/html/</b> (default apache2 path) :
 <pre>
 cd /var/www/html/ # Default apache2 server path
@@ -27,9 +29,12 @@ rm master.zip
 </pre>
 - Edit configuration (<b>rpc_user</b> and <b>rpc_password</b>)
 <pre>
-nano /var/www/hmtl/config.php
 - Delete index.html
 rm index.html
+
+- Customize config file
+nano /var/www/hmtl/config.php
+
 </pre>
 
 # Features
