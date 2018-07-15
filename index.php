@@ -217,11 +217,11 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     else{
       echo '<li class="w3-padding-16 w3-orange">';
       echo '<span class="w3-xlarge">';
-      echo 'Cannot connect to GOSSIP node [url=' . $rpc_url . '] [port=' . $rpc_port . ']';
+      echo 'Cannot connect to the GOSSIP masternode';
       echo '</br>';
-      echo '- Edit <b>rpc_user</b> and <b>rpc_password</b> in <b>config.php</b> (use the same credentials as gossip.conf)';
+      echo 'Edit <b>rpc_user</b> and <b>rpc_password</b> in <b>config.php</b> (use the same credentials as gossipcoin.conf)';
       echo '</br>';
-      echo '- Maybe your gossip daemon is not running';
+      echo 'Maybe your gossip daemon is not running';
     }
     echo '</li>';
     echo '</ul>';
