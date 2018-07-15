@@ -44,6 +44,3 @@ nano /var/www/hmtl/config.php
 
 # Example
 - You can see it running : http://45.77.53.110/
-
-# Feel free to Donate
-- GOSSIP : XFZVA98C3t38KSob6AUnxqzNp86TjbqVtw
