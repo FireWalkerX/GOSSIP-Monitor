@@ -1,7 +1,6 @@
-# gossip-monitor
+# GOSSIP Masternode Monitor
 
-PHP script designed to monitor your master-node(s) by using RPC API of GOSSIP daemon.
-It uses apache, php and curl.
+An application to monitor your masternode(s).
 
 # Requirements
 
@@ -47,7 +46,6 @@ nano /var/www/hmtl/config.php
 
 # Important
 - Edit config.php (rpc_user & rpc_password)
-- Xuez-monitor now uses curl to make RPC request, it can be done locally or remotely and is much safer than older method (php shell_exec)
 
 # Example
-- You can see it running : http://45.77.53.110/
+- You can see it running: http://80.211.230.185/
