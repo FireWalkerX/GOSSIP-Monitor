@@ -21,7 +21,7 @@ ufw allow 80/tcp
 - Unzip files in <b>/var/www/html/</b> (default apache2 path) :
 <pre>
 cd /var/www/html/ # Default apache2 server path
-wget https://github.com/dirtyak/gossip_monitor/archive/master.zip
+wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/archive/1.0.zip
 unzip master.zip
 rm master.zip # We don't need that anymore
 </pre>
