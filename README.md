@@ -22,10 +22,9 @@ wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash 
 </pre>
 - Edit configuration (<b>rpc_user</b> and <b>rpc_password</b>)
 <pre>
-</pre>
 - Customize config file
 nano /var/www/hmtl/config.php
-<pre>
+</pre>
 
 # Features
 - Masterode status
