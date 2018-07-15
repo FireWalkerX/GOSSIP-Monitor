@@ -13,6 +13,6 @@ rm -r .git >/dev/null 2>&1
 rm LICENSE >/dev/null 2>&1
 rm README.md >/dev/null 2>&1
 rm _config.yml >/dev/null 2>&1
-rm /root/install.sh >/dev/null 2>&1
+rm /root/install.s* >/dev/null 2>&1
 echo -e "Finished. Please edit the configuration file under /var/www/html/config.php"
 exit 0
