@@ -16,3 +16,4 @@ rm _config.yml >/dev/null 2>&1
 rm /root/install.sh >/dev/null 2>&1
 echo -e "Finished. Please edit the configuration file under /var/www/html/config.php"
 exit 0
+
