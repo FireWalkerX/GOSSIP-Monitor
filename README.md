@@ -21,7 +21,8 @@ ufw allow http
 wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
 </pre>
 <pre>
-- Edit configuration file (<b>rpc_user</b> and <b>rpc_password</b>) from your gossipcoin.conf
+Edit configuration file (<b>rpc_user</b> and <b>rpc_password</b>) from your gossipcoin.conf
+
 nano /var/www/hmtl/config.php
 </pre>
 
