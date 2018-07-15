@@ -11,9 +11,9 @@ It uses apache, php and curl.
 apt-get install apache2 libapache2-mod-php php php-curl unzip
 service apache2 restart
 </pre>
-- Open your firewall port 80
+- Open your firewall http port
 <pre>
-ufw allow 80/tcp
+ufw allow http
 </pre>
 
 # Install
