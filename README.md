@@ -19,7 +19,7 @@ ufw allow http
 
 wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
 
-- Unzip files in <b>/var/www/html/</b> (default apache2 path) :
+- Unzip files in <b>/var/www/html/</b>
 <pre>
 cd /var/www/html/ # Default apache2 server path
 wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/archive/1.0.zip
