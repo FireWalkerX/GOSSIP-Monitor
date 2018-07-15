@@ -6,4 +6,5 @@ ufw allow http
 cd /var/www/html/
 git clone https://github.com/GOSSIP-DEV/GOSSIP-Monitor .
 rm index.html
+rm /root/install.sh
 exit 0
