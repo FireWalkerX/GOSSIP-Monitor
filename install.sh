@@ -2,7 +2,7 @@
 
 echo -e "Install needed tools"
 apt-get update >/dev/null 2>&1
-apt-get install -y apache2 libapache2-mod-php php php-curl unzip
+apt-get install -y apache2 libapache2-mod-php php php-curl unzip  >/dev/null 2>&1
 service apache2 restart
 ufw allow http
 cd /var/www/html/
