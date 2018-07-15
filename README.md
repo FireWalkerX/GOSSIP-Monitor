@@ -17,7 +17,7 @@ ufw allow http
 
 # Install
 
-wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/blob/master/install.sh && bash install.sh
+wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
 
 - Unzip files in <b>/var/www/html/</b> (default apache2 path) :
 <pre>
