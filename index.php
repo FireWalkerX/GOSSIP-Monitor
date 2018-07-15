@@ -250,9 +250,9 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <h3 class="w3-bottombar w3-border-blue">Support GOSSIP</h3>
     <p>Source code on <a href="https://github.com/dirtyak/gossip_monitor" target="_blank">GitHub</a></p>
     <p>GOSSIP Links :
-      <a href="http://gossip.donkeypool.com">Explorer</a> |
-      <a href="https://discordapp.com/invite/3Yypx4C">Discord</a> |
-      <a href="https://gossipcoin.com/">Website</a>
+      <a href="http://80.211.186.19">Explorer</a> |
+      <a href="https://discord.gg/yZ3kvPX">Discord</a> |
+      <a href="https://gossipcoin.net/">Website</a>
     </p>
   </footer>
 
