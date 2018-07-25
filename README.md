@@ -19,4 +19,4 @@ nano /var/www/hmtl/config.php
 
 # Example
 
-You can see it running: http://80.211.230.185/
+You can see it running: http://194.182.77.170
