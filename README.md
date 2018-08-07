@@ -9,7 +9,7 @@ Have a GOSSIP masternode up and running.
 # Install
 
 <pre>
-wget https://github.com/GOSSIP-DEV/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
+wget https://github.com/g0ssipcoin/GOSSIP-Monitor/raw/master/install.sh && bash install.sh
 </pre>
 <pre>
 Edit configuration file (<b>rpc_user</b> and <b>rpc_password</b>) from your gossipcoin.conf
@@ -19,4 +19,4 @@ nano /var/www/hmtl/config.php
 
 # Example
 
-You can see it running: http://194.182.77.170
+You can see it running: http://monitor.gossipcoin.net
