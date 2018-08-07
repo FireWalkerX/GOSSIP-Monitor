@@ -244,13 +244,16 @@ html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   ?>
   <hr>
 
-
   <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-dark-grey">
     <h3 class="w3-bottombar w3-border-blue">GOSSIP COIN</h3>
     <p>Helpful Links :
-      <a href="http://80.211.186.19">Explorer</a> |
-      <a href="https://discord.gg/yZ3kvPX">Discord</a> |
+      <a href="http://chain.gossipcoin.net">Explorer</a> |
+      <a href="https://wiki.gossipcoin.net">WIKI</a> |
+      <a href="https://project.gossipcoin.net">Project</a> |
+      <a href="https://t.me/gossipcoin">Telegram</a> |
+      <a href="https://twitter.com/gosscoin">Twitter</a> |
+      <a href="https://discord.gg/bbnngrZ">Discord</a> |
       <a href="https://gossipcoin.net/">Website</a>
     </p>
   </footer>
