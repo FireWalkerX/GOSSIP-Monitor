@@ -102,8 +102,6 @@ echo "</div>";
 }
 ?>
 
-
-
 <?php
 if(!empty($custom_mnlist[0])){
 echo '<div class="w3-container w3-padding">';
@@ -151,9 +149,6 @@ else{
 }
 ?>
 
-
-
-
 <?php if(!empty($mnlist)){
 echo '<div id="mnlist" class="w3-container">';
 echo   '<h4>All Masternodes :</h4>';
@@ -186,8 +181,8 @@ echo '</div>';
   <footer class="w3-container w3-padding-16 w3-dark-grey">
     <h5 class="w3-bottombar w3-border-blue">Support GOSSIP</h5>
     <p>GOSSIP Links :
-      <a href="http://80.211.186.19">Explorer</a> |
-      <a href="https://discord.gg/yZ3kvPX">Discord</a> |
+      <a href="http://chain.gossipcoin.net">Explorer</a> |
+      <a href="https://discord.gg/54vDcgX">Discord</a> |
       <a href="https://gossipcoin.net/">Website</a>
     </p>
   </footer>
@@ -204,7 +199,6 @@ echo '</div>';
         loadlink() // this will run after every 5 seconds
     }, 1000);
   </script>
-
 
   <!-- End page content -->
 </div>
