@@ -180,9 +180,13 @@ echo '</div>';
   <!-- Footer -->
   <footer class="w3-container w3-padding-16 w3-dark-grey">
     <h5 class="w3-bottombar w3-border-blue">Support GOSSIP</h5>
-    <p>GOSSIP Links :
+    <p>Helpful Links :
       <a href="http://chain.gossipcoin.net">Explorer</a> |
-      <a href="https://discord.gg/54vDcgX">Discord</a> |
+      <a href="https://wiki.gossipcoin.net">WIKI</a> |
+      <a href="https://project.gossipcoin.net">Project</a> |
+      <a href="https://t.me/gossipcoin">Telegram</a> |
+      <a href="https://twitter.com/gosscoin">Twitter</a> |
+      <a href="https://discord.gg/bbnngrZ">Discord</a> |
       <a href="https://gossipcoin.net/">Website</a>
     </p>
   </footer>
